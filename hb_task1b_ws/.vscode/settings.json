@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/sudeesh/eyrc_hb/hb_task1b_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/sudeesh/eyrc_hb/hb_task1b_ws/build/hb_task_1b",
+        "/home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/sudeesh/eyrc_hb/hb_task1b_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/sudeesh/eyrc_hb/hb_task1b_ws/build/hb_task_1b",
+        "/home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

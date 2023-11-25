@@ -1,0 +1,3 @@
+[console_scripts]
+gazebo.launch = hb_task_1b.gazebo.launch.py:mainhb_task1b.launch = hb_task1b.launch.py:maincontroller = hb_task_1b.controller.py:main
+

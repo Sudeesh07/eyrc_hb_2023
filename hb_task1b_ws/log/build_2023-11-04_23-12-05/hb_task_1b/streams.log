@@ -1,0 +1,35 @@
+[1.103s] Invoking command in '/home/sudeesh/eyrc_hb/hb_task1b_ws/build/hb_task_1b': PYTHONPATH=/home/sudeesh/eyrc_hb/hb_task1b_ws/build/hb_task_1b/prefix_override:/home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/sudeesh/eyrc_hb/hb_task1b_ws/build/hb_task_1b/build --no-deps install_data
+[1.483s] running develop
+[1.754s] running egg_info
+[1.754s] creating hb_task_1b.egg-info
+[1.754s] writing hb_task_1b.egg-info/PKG-INFO
+[1.754s] writing dependency_links to hb_task_1b.egg-info/dependency_links.txt
+[1.755s] writing entry points to hb_task_1b.egg-info/entry_points.txt
+[1.755s] writing requirements to hb_task_1b.egg-info/requires.txt
+[1.755s] writing top-level names to hb_task_1b.egg-info/top_level.txt
+[1.755s] writing manifest file 'hb_task_1b.egg-info/SOURCES.txt'
+[1.758s] reading manifest file 'hb_task_1b.egg-info/SOURCES.txt'
+[1.759s] writing manifest file 'hb_task_1b.egg-info/SOURCES.txt'
+[1.760s] running build_ext
+[1.761s] Creating /home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/lib/python3.10/site-packages/hb-task-1b.egg-link (link to .)
+[1.762s] Installing gazebo.launch = hb_task_1b.gazebo.launch.py:mainhb_task1b.launch = hb_task1b.launch.py:maincontroller script to /home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/lib/hb_task_1b
+[1.762s] 
+[1.762s] Installed /home/sudeesh/eyrc_hb/hb_task1b_ws/build/hb_task_1b
+[1.763s] running install_data
+[1.763s] creating /home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/share/ament_index
+[1.763s] creating /home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/share/ament_index/resource_index
+[1.763s] creating /home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/share/ament_index/resource_index/packages
+[1.763s] copying resource/hb_task_1b -> /home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/share/ament_index/resource_index/packages
+[1.763s] copying package.xml -> /home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/share/hb_task_1b
+[1.764s] creating /home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/share/hb_task_1b/launch
+[1.764s] copying launch/hb_task1b.launch.py -> /home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/share/hb_task_1b/launch
+[1.764s] copying launch/gazebo.launch.py -> /home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/share/hb_task_1b/launch
+[1.764s] creating /home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/share/hb_task_1b/urdf
+[1.764s] copying urdf/materials.xacro -> /home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/share/hb_task_1b/urdf
+[1.764s] copying urdf/hb_bot.urdf.xacro -> /home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/share/hb_task_1b/urdf
+[1.765s] creating /home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/share/hb_task_1b/meshes
+[1.765s] copying meshes/17eyantra_logo_large e.png -> /home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/share/hb_task_1b/meshes
+[1.766s] copying meshes/wheel.stl -> /home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/share/hb_task_1b/meshes
+[1.784s] copying meshes/base.dae -> /home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/share/hb_task_1b/meshes
+[1.789s] creating /home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/share/hb_task_1b/worlds
+[1.833s] Invoked command in '/home/sudeesh/eyrc_hb/hb_task1b_ws/build/hb_task_1b' returned '0': PYTHONPATH=/home/sudeesh/eyrc_hb/hb_task1b_ws/build/hb_task_1b/prefix_override:/home/sudeesh/eyrc_hb/hb_task1b_ws/install/hb_task_1b/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/sudeesh/eyrc_hb/hb_task1b_ws/build/hb_task_1b/build --no-deps install_data
